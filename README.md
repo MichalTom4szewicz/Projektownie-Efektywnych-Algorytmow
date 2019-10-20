@@ -1,5 +1,5 @@
 # Projektownie-Efektywnych-Algorytmow
-Projekt PWr
+Projekt PWr: 2018
 
 1. Implementacja algorytmu symulowanego wyżarzania dla problemu komiwojażera (TSP).
 
