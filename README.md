@@ -1,4 +1,6 @@
 # Projektownie-Efektywnych-Algorytmow
 Projekt PWr
 
-Implementacja algorytmu genetycznego dla problemu komiwojażera (TSP).
+1.Implementacja algorytmu symulowanego wyżarzania dla problemu komiwojażera (TSP).
+
+2.Implementacja algorytmu genetycznego dla problemu komiwojażera (TSP).
